@@ -1,0 +1,67 @@
+{
+ "name": "comunidades",
+ "children": [
+  {
+   "name": "0",
+   "children": [
+    {"name": "IV Mostra Nacional de Experiências em Atenção Básica e Saúde da Família", "size": 5},
+    {"name": "Médicos Norô", "size": 21},
+    {"name": "Saúde Coletiva e Educação na Saúde", "size": 50},
+    {"name": "Opinião e sugestões para a nova Comunidade", "size": 63},
+    {"name": "Sistematização da Assistência de Enfermagem do Distrito de Saúde Sul - Campinas/SP", "size": 78},
+    {"name": "Telessaúde e Regulação", "size": 82},
+    {"name": "Curadores e Trabalhadores do DAB também fazem a diferença na Atenção Básica", "size": 89}
+   ]
+ },
+ {
+  "name": "100",
+  "children": [
+   {"name": "Relatos de Experiência do PROVAB e Mais Médicos", "size": 104},
+   {"name": "Boas vindas!", "size": 153},
+   {"name": "IV Mostra - Eixo Temático 18", "size": 154},
+   {"name": "IV Mostra - Eixo Temático 17", "size": 192}
+  ]
+},
+ {
+  "name": "200",
+  "children": [
+   {"name": "O Usuário é Nosso", "size": 200},
+   {"name": "IV Mostra - Eixo Temático 19", "size": 207},
+   {"name": "Práticas Integrativas nos Centros de Atenção Psicossocial", "size": 252}
+  ]
+},
+{
+ "name": "300",
+ "children": [
+  {"name": "IV Mostra - Eixo Temático 16", "size": 343}
+ ]
+},
+{
+ "name": "400",
+ "children": [
+  {"name": "IV Mostra - Eixo Temático 4", "size": 436},
+  {"name": "Práticas Integrativas e Complementares", "size": 498}
+ ]
+},
+{
+ "name": "500",
+ "children": [
+  {"name": "Saúde mental na Atenção Básica", "size": 533}
+ ]
+},
+{
+ "name": "600",
+ "children": [
+  {"name": "NASF - Núcleo de Apoio à Saúde da Família", "size": 621},
+  {"name": "IV Mostra - Eixo Temático 15", "size": 625},
+  {"name": "Saúde na Escola", "size": 641}
+ ]
+},
+{
+ "name": "700",
+ "children": [
+  {"name": "IV Mostra - Eixo Temático 20", "size": 703}
+ ]
+}
+ ]
+}
